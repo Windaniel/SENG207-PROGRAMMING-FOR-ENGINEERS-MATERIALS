@@ -11,8 +11,14 @@ However, it has a more usefule purpose we will discuss later
 
 # print parameters
 
+# print("Godwin", "Kondo", sep="/")
+# print("059", "277", "5943", sep="-")
+print("Godwin", end= '\n') 
+print("Kondo", end='\n \n')
+print("University of Ghana")
 
 # Python language order of execution
+# python execute code on some heratical order
 
 
 

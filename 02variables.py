@@ -6,9 +6,11 @@
 # 2. Cannot use white spaces and hyphen in between names
 # 3. Use underscore
 # 4. Use camelCase notation
-# 5. Cannot start with a number but can have a number in it
-# 6. Cannot use reserved keywords
-# 7. Python is case-sensitive
+# 5.PascalCase notation 
+# 6.snake_case notation
+# 7. Cannot start with a number but can have a number in it
+# 8. Cannot use reserved keywords
+# 9. Python is case-sensitive
 
 
 # Multiple Assignment or Unpacking
