@@ -4,6 +4,7 @@
 # String is a collection of characters declared within a single or double quotation mark
 
 Name= 'Daniel'
+print (Name)
 print(type(Name))
 
 # Integer -- int
@@ -13,9 +14,9 @@ print(type(firstNumber))
 
 # Float -- float
 # A float is a fractional or decimal value
-number1= 2.534
-print(number1)
-print(type(number1))
+nb1= 2.534
+print(nb1)
+print(type(nb1))
 
 # Complex -- complex
 # A complex number is a number which consist of a real part and an imaginary part.
