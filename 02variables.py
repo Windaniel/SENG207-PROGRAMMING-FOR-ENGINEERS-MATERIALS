@@ -1,7 +1,7 @@
 
-# from keyword import kwlist 
+from keyword import kwlist 
 
-# print(kwlist)
+print(kwlist)
 
 # A variable is a placeholder for storing data in the computer memory
 
