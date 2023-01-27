@@ -16,6 +16,9 @@
 # 7. Cannot start with a number but can have a number in it
 # 8. Cannot use reserved keywords
 # 9. Python is case-sensitive
+# x= 10
+# y= 20
+# z= 30
 x, y ,z= 10 ,20 , 30
 
 a, *b= 20, 30, 40 
