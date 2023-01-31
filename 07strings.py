@@ -1,10 +1,17 @@
 # Python string and methods
 
 # When to use single or double quotation marks
+print("Ghana's premiers University")
 
 # Indexing: Python indexing starts from 0
+school= 'University of Ghana'
+print(school[0]) 
+print(school[0:10]) #print out only university or
+print(school[0:-9]) 
 
 # len function
+lenght =len(school)
+print(lenght)
 
 # STRING METHODS
 
