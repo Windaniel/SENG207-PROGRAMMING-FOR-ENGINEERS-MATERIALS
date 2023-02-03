@@ -13,5 +13,5 @@ import maskpass #to mask the password
 # print("your password is: ", password)
 
 
-pswd= maskpass.askpass("enter your password: ")
+pswd= maskpass.askpass("Enter your password: ")
 print(pswd)
