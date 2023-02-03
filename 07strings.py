@@ -10,10 +10,12 @@ print(school[0:10]) #print out only university or
 print(school[0:-9]) 
 
 # len function
-lenght =len(school)
+lenght =len(school) #with len function
 print(lenght)
 
 # STRING METHODS
+# methods & function are the same but depend on the context that each is found 
+
 
 # Capitalize -- Converts the first character to uppercase
 
