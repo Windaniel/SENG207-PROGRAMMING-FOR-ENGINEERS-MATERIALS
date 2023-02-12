@@ -1,7 +1,10 @@
 # Python list is a collection which is ordered and mutable.
 # It allows duplicate members
-
-
+fruit= ['Mango', 'Orange', 'Banana', 2, 2.5, True]
+school= "university if Ghana"
+print(fruit, '\n')
+print(fruit)
+print(school[0])
 # len fucntion
 
 # LIST METHODS
