@@ -14,25 +14,21 @@
 #     total *= x     
 # print(total)
 
+# Loop through multiple Lists simultaneously using zip nethod
 # Zip method
 names= ['kelly', 'fafa', 'john', 'sika']
 scores = [10, 12, 56, 75] 
 for name, score in zip(names , scores):
     print(f'{name} score: {score}')
 
-# range Method  
-for x in range(1990, 2023,4) :
+# range method and loops
+ 
+for x in range(1990, 2023, 4):
     print(f'{x} was a voting year')
-    
+
 # While loop
 
 # Loop through List
-
-# Loop through multiple Lists simultaneously using zip nethod
-
-
-# range method and loops
-
 
 # Loop through Dictionary
 
