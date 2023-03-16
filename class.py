@@ -11,7 +11,7 @@ class bakingPan:
     
     def total_price(self,quantity):
         total = quantity * self.unite_price
-        return f'the total price of {quantity} {self.bread_name()} = {total} Ghc'
+        return f'the total price of {quantity} {self.bread_name()} = Ghc {total}'
 
 
 
@@ -27,4 +27,6 @@ print(bread1.bread_name()) #object.method
 print(bread2.bread_name()) #object.method 
 print(bread1.total_price(10)) #object.method 
 print(bread2.total_price(5)) #object.method 
+ 
+
  
