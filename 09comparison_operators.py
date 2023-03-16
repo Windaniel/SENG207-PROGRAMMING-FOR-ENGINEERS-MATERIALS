@@ -2,6 +2,9 @@
 # Comparison operators are used to compare two or more values
 
 # Equal to ==
+x = 20
+y = 20 
+print(x== y)
 
 # Not Equal to !=
 

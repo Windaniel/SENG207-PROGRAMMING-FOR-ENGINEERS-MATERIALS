@@ -9,6 +9,11 @@
 # Division /
 
 # Floor Division //
+x = 10
+y = 3
+z = x//y
+print(type(z))
+print(z)
 
 # Power **
 
@@ -45,8 +50,8 @@
 # print(boolean)
 
 # Exercise 
-nb1 = int(input("Entre any first number: "))
-nb2 = int(input("Entre any second number: "))
+# nb1 = int(input("Entre any first number: "))
+# nb2 = int(input("Entre any second number: "))
 
-Result= nb1 % nb2
-print(f'The modulus of {nb1} and {nb2} is = {Result}')
+# Result= nb1 % nb2
+# print(f'The modulus of {nb1} and {nb2} is = {Result}')
